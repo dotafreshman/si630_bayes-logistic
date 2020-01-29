@@ -1,1 +1,0 @@
-# si630_bayes-logistic
